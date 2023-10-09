@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.vscode
+
+# ChatWithPDFDocuments
+ChatWithPDFDocuments/faiss_index/*
+ChatWithPDFDocuments/conversation.json
+
+
 # C extensions
 *.so
 
