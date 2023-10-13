@@ -8,7 +8,8 @@ __pycache__/
 # ChatWithPDFDocuments
 ChatWithPDFDocuments/faiss_index/*
 ChatWithPDFDocuments/conversation.json
-
+.hg_models
+AutoGen/OAI_CONFIG_LIST_nosync.json
 
 # C extensions
 *.so
