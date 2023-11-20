@@ -92,7 +92,7 @@ soupsieve==2.5
 SpeechRecognition==3.8.1
 SQLAlchemy==2.0.21
 streamlit==1.28.2
-streamlit-chat==0.1.1
+streamlit-chat==0.0.2.2
 sympy==1.12
 tenacity==8.2.3
 textract==1.6.5
