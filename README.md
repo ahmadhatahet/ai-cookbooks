@@ -1,4 +1,4 @@
-# hands-on Projects with newest AI technologies
+# Hands-on Projects with the newest AI technologies
 
 
 ## Projects
