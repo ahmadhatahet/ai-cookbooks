@@ -1,4 +1,4 @@
-# Practical Application utlizing LLM modls
+# Practical Application utilizing LLM models
 
 
 ## Projects
