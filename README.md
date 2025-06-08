@@ -1,4 +1,4 @@
-# Practical Application utilizing LLM models
+# hands-on Projects with newest AI technologies
 
 
 ## Projects
